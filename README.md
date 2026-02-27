@@ -33,7 +33,8 @@ I care a lot about:
 
 # ❤️ Let’s Connect
 Website: 
-LinkedIn: linkedin.com/in/avneetkaur777/
+
+LinkedIn: www.linkedin.com/in/avneetkaur777/
 
 Email: avk328@lehigh.edu
 
