@@ -3,7 +3,7 @@
 I’m a CS + Business student at Lehigh University who builds products, tells stories, and moves to countries before knowing the language. I care about tech that actually creates an impact in the world. For people, for the planet, for the ones usually left out of the conversation.
 
 I keep my stories and deeper project write-ups on my 
-# 💌 website: 
+# 💌 website: http://avneetgrewal114.com/
 
 # ⚠️ Quick note about my commit history (aka why it’s not all green):
 If my activity graph looks quieter than you’d expect, here’s why:
@@ -32,7 +32,7 @@ I care a lot about:
 - building spaces where people feel like they belong
 
 # ❤️ Let’s Connect
-Website: 
+Website: http://avneetgrewal114.com/
 
 LinkedIn: www.linkedin.com/in/avneetkaur777/
 
