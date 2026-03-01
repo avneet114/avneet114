@@ -36,6 +36,5 @@ Website: http://avneetgrewal114.com/
 
 LinkedIn: www.linkedin.com/in/avneetkaur777/
 
-Email: avk328@lehigh.edu
 
 Always down for a hot chocolate chat (I don't drink coffee), collaborate, learn together, or build something fun and useful :)
